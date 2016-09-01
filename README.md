@@ -15,11 +15,11 @@ Requirements
 
 To run this application
 
-1) Download the project zip file.
-2) Unzip the project to any folder
+1) Download the project zip file.                                                                                                    
+2) Unzip the project to any folder                                                                                                   
 3) Launch the application Kony Visualizer Enterprise version 7.0.
-4) Import the project into Kony Visualizer Enterprise version 7.0.
-5) Build & run the application for iPhone.
+4) Import the project into Kony Visualizer Enterprise version 7.0.                                                               
+5) Build & run the application for iPhone.                                                                                           
 
 Supported Channels:
 
