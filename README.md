@@ -9,9 +9,10 @@ Purpose
 
 This application showcases how to use splash screens for all the version of iPhone devices.
 
-Requirements
-1) Images / Assets with exact sizes
-2) Naming convention
+Requirements  :
+
+1) Images / Assets with exact sizes                                                                         
+2) Naming convention                                                                                                       
 
 To run this application
 
