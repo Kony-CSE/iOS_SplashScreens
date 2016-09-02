@@ -17,7 +17,9 @@ To run this application
 
 1) Download the project zip file.                                                                                                    
 2) Unzip the project to any folder                                                                                                   
-3) Launch the application Kony Studio.                                                                                                4) Import the project into Kony Studio.                                                                                               5) Build & run the application for iPhone.                                                                                           
+3) Launch the application Kony Studio.    
+4) Import the project into Kony Studio.                                                                                      
+5) Build & run the application for iPhone.                                                                                            
 
 Supported Channels:
 
